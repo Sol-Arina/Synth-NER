@@ -1,2 +1,2 @@
 # Synth-NER
-scripts for my thesis
+This repository contains scripts for my thesis.
